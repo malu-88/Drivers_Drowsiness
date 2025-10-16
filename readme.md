@@ -11,6 +11,8 @@ Install below modules
 
 Install microsoft VSCode build tools
 
+pip install imutils dlib scipy
+
 
 To run 
 enter "python Drowsiness_Detection.py"
