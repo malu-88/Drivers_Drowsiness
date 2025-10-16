@@ -15,4 +15,6 @@ Install microsoft VSCode build tools
 To run 
 enter "python Drowsiness_Detection.py"
 
+To stop working of code enter "a"
+
 
